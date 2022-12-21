@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run" type="PowerShellRunType" factoryName="PowerShell" scriptUrl="C:\Users\dmattila\OneDrive - CYBERTROL ENGINEERING\Desktop\Cython_dev\run.ps1" workingDirectory="C:\Users\dmattila\OneDrive - CYBERTROL ENGINEERING\Desktop\Cython_dev\dist\main" executablePath="$PROJECT_DIR$/../../../../../WINDOWS/System32/WindowsPowerShell/v1.0/powershell.exe">
+    <envs />
+    <method v="2" />
+  </configuration>
+</component>
